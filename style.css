@@ -1,0 +1,29 @@
+#wynik {font-size: 24px;
+        text-decoration-style: solid;
+        background-color: #7FFF00;
+}
+
+body {background-color: #CCCCCC;
+
+}
+
+table, td {
+          border: 1px dashed #00CED1;
+          text-align: center;
+}
+
+h1 { font-style: oblique;
+     color: blue;
+
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: #7FFF00;
+    padding: 2px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
